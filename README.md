@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá 👋 Meu nome é David
 
-<!--
-**DavidLucas1122/DavidLucas1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📚 Estudante de Desenvolvimento de Sistemas no **SENAI**  
+🎯 Em formação **Full Stack**, com foco inicial em **Front-end**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DavidLucas1122&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLucas1122&layout=compact&theme=dark&hide_border=true)
+
+
+</div>
